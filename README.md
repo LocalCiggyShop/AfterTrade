@@ -2,6 +2,8 @@
 
 A trading journal for logging setups, tracking risk, and reviewing performance. Start with the demo or import your trades from CSV or JSON.
 
+[Try the live AfterTrade demo](https://aftertrade-eight.vercel.app/)
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLocalCiggyShop%2FAfterTrade)
 
 To deploy directly from this repository and pick up future pushes, import **LocalCiggyShop/AfterTrade** in [Vercel](https://vercel.com/new) and click **Deploy**. No backend or environment variables are required.
